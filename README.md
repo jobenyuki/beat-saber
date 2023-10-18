@@ -4,10 +4,6 @@ Browser-based Beat Saber multiplayer game with support for 2+ players. The game 
 
 [**Live Demo**](https://beat-saber.surge.sh/)
 
-[**Desktop Recording**](https://www.veed.io/view/98a48207-0bb0-4b5b-9a14-cc2bd37d7456?sharingWidget=true&panel=share)
-
-[**Oculus Quest 2 Recording**](https://www.veed.io/view/b976acf5-e367-478b-aff3-b3cc11aaea71?sharingWidget=true&panel=share)
-
 ### Development
 
 Install dependencies
